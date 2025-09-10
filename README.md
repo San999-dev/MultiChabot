@@ -52,8 +52,12 @@ Clears history via the clear button.
 
 Demo
 
+https://multi-chabot.vercel.app/
+
 Open index.html in your browser.
+
 Start typing or click the microphone icon to speak.
+
 Use the dropdown to switch modes.
 
 Installation
